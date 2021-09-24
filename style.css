@@ -1,0 +1,40 @@
+.carouselHeight {
+    height: 300px;
+}
+
+.name {
+    font-size: 150px;
+}
+
+.title {
+    margin-top: 20px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+.one {
+    width: 200px;
+    height: 200px;
+}
+
+.two {
+    width: 200px;
+    height: 200px;
+}
+
+.three {
+    width: 200px;
+    height: 200px;
+}
+
+.footname {
+    height: 50px;
+    background-color: grey;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.text {
+    width: 200px;
+}
